@@ -1,0 +1,11 @@
+{
+  "name": "http-nodejs",
+  "version": "1.0.0",
+  "description": "coding nodejs dengan service HTTP",
+  "main": "testhttp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasimy",
+  "license": "ISC"
+}
